@@ -43,7 +43,5 @@ public class Student {
  {
 
  }
- 
- int countAll() { return 0; }.
 
 }
